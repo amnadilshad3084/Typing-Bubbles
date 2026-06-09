@@ -1,7 +1,7 @@
 # 🎈 Typing Bubbles — Assembly Language Game
 
 An interactive typing game built entirely in x86 Assembly Language 
-and run on DOSBox. Bubbles float upward with letters on them — 
+and run on DOSBox. Bubbles float upward with letters on them - 
 type the correct letter before they escape to pop them and earn points.
 
 ## 🛠️ Built With
@@ -12,9 +12,9 @@ type the correct letter before they escape to pop them and earn points.
 ## 🎮 Features
 - **Real-time keyboard interrupt handling** for responsive input
 - **Floating bubbles** displayed with random letters
-- **Live score tracking** — 10 points per bubble popped
+- **Live score tracking** : 10 points per bubble popped
 - **2-minute countdown timer** adding urgency to gameplay
-- **Multiple difficulty levels** — Easy and Hard modes
+- **Multiple difficulty levels** : Easy and Hard modes
 - **Night mode theme** for varied visual experience
 - **Pause functionality** available during gameplay
 - **Game Over screen** with final score displayed

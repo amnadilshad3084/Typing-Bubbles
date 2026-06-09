@@ -5,7 +5,7 @@ and run on DOSBox. Bubbles float upward with letters on them —
 type the correct letter before they escape to pop them and earn points.
 
 ## 📸 Screenshot
-![Typing Bubbles Gameplay](Typing Bubbles interface.png)
+![Typing Bubbles Gameplay](screenshot.png)
 
 ## 🛠️ Built With
 - **Language:** x86 Assembly (MASM)

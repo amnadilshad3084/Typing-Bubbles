@@ -4,7 +4,8 @@ An interactive typing game built entirely in x86 Assembly Language
 and run on DOSBox. Bubbles float upward with letters on them — 
 type the correct letter before they escape to pop them and earn points.
 
-![Typing Bubbles Interface](Typing%20Bubbles%20interface.png)
+## 📸 Screenshot
+![Typing Bubbles Gameplay](Typing Bubbles interface.png)
 
 ## 🛠️ Built With
 - **Language:** x86 Assembly (MASM)

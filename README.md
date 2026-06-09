@@ -1,4 +1,4 @@
-# ⌨️ Typing Bubbles — Assembly Language Game
+# 🎈 Typing Bubbles — Assembly Language Game
 
 An interactive typing game built entirely in x86 Assembly Language 
 and run on DOSBox. Bubbles float upward with letters on them — 
